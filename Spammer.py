@@ -135,7 +135,7 @@ def do_git_update():
                                    stdout=subprocess.PIPE,
                                    stderr=subprocess.STDOUT)
         while process:
-            print(ALL_COLORS[0]+'.'+RESET_ALL, end='')
+            
             time.sleep(1)
             returncode = process.poll()
             if returncode is not None:
@@ -155,7 +155,7 @@ def do_git_update():
         mesgdcrt.GeneralMessage("Then run command:")
         print(
             "git checkout . && "
-            "git pull https://github.com/TheSpeedX/TBomb.git HEAD")
+            "git pull https:('https://github.com/Aryan-mfc/FastBomber.gitHEAD")
     sys.exit()
  
  
