@@ -14,7 +14,7 @@ $ pkg install php
 $ git clone https://github.com/Aryan-mfc/FastBomber.git
 $ cd FastBomber
 $ ls
-$ python Spammer.py
+$ bash Spammer.sh
 
  Tool Installation successful
 
@@ -32,7 +32,7 @@ gem install toilet
 git clone https://github.com/Aryan-mfc/FastBomber.git
 cd FastBomber
 chmod +x FastBomber
-python2 Spammer.py
+bash Spammer.sh
 ```
  
 #### For Debian-based GNU/Linux distributions
@@ -42,7 +42,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 sudo apt install git
 git clone  https://github.com/Aryan-mfc/FastBomber.git
 cd FastBomber
-Python2 Spammer.py
+bash Spammer.sh
 ```
  
 #### For MacOS
@@ -64,7 +64,7 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 git clone  https://github.com/Aryan-mfc/FastBomber.git
 cd FastBomber
-python2 Spammer.py
+bash Spammer.sh
 ```
 Support
 
