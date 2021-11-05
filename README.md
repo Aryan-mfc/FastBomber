@@ -66,3 +66,8 @@ git clone  https://github.com/Aryan-mfc/FastBomber.git
 cd FastBomber
 python2 Spammer.py
 ```
+Support
+ 
+For Queries: [Whatsapp Group](https://chat.whatsapp.com/EDYp7k0AkGsB805gQKHF2G)  
+Contributions, issues, and feature requests are welcome!  
+Give a ★ if you like this project!
