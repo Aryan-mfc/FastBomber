@@ -15,6 +15,8 @@ $ git clone https://github.com/Aryan-mfc/FastBomber.git
 $ cd FastBomber
 $ ls
 $ python Spammer.py
-$ successful
+
+ Tool Installation successful
+
 ```
 
